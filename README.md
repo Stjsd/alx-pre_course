@@ -1,1 +1,1 @@
-my first readme
+software guru in the making
